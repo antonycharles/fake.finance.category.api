@@ -1,0 +1,1 @@
+# fake.store.category.api
