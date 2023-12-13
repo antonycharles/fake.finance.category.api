@@ -1,1 +1,1 @@
-# fake.store.category.api
+# fake.finance.category.api
